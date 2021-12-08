@@ -1,0 +1,7 @@
+/home/admin/OpenFAST/reg_tests/r-test/glue-codes/openfast/5MW_Baseline/ServoData/DISCON/build/CMakeFiles/install/strip.dir
+/home/admin/OpenFAST/reg_tests/r-test/glue-codes/openfast/5MW_Baseline/ServoData/DISCON/build/CMakeFiles/install/local.dir
+/home/admin/OpenFAST/reg_tests/r-test/glue-codes/openfast/5MW_Baseline/ServoData/DISCON/build/CMakeFiles/install.dir
+/home/admin/OpenFAST/reg_tests/r-test/glue-codes/openfast/5MW_Baseline/ServoData/DISCON/build/CMakeFiles/list_install_components.dir
+/home/admin/OpenFAST/reg_tests/r-test/glue-codes/openfast/5MW_Baseline/ServoData/DISCON/build/CMakeFiles/rebuild_cache.dir
+/home/admin/OpenFAST/reg_tests/r-test/glue-codes/openfast/5MW_Baseline/ServoData/DISCON/build/CMakeFiles/edit_cache.dir
+/home/admin/OpenFAST/reg_tests/r-test/glue-codes/openfast/5MW_Baseline/ServoData/DISCON/build/CMakeFiles/DISCON.dir
