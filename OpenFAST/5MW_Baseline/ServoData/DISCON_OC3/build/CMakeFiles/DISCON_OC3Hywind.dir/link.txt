@@ -1,0 +1,1 @@
+/usr/bin/gfortran -fPIC  -DUNIT_TEST -fpic  -ffree-line-length-none -cpp -fstack-reuse=none -fdefault-real-8 -m64 -ffree-line-length-none -fdefault-real-8 -C -DIMPLICIT_DLLEXPORT -O3 -DNDEBUG -O3  -shared -Wl,-soname,DISCON_OC3Hywind.dll -o DISCON_OC3Hywind.dll CMakeFiles/DISCON_OC3Hywind.dir/DISCON_OC3Hywind.F90.o -Wl,-rpath,:::::::::::::::::::::::::::::::: 
